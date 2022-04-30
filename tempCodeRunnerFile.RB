@@ -1,0 +1,1 @@
+puts vr_total1,vr_total2
